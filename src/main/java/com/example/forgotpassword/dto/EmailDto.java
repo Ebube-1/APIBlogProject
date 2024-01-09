@@ -11,4 +11,6 @@ public class EmailDto {
     private String recipientEmail;
     private String subject;
     private String message;
+
 }
+
